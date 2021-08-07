@@ -30,7 +30,10 @@ function App() {
               <Chat />
             </Route>
             <Route path ="/">
-             <Chat />
+            
+              <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="" />
+
+               
              </Route>
           </Switch>
       </Router>

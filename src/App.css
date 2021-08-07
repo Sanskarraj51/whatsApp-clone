@@ -12,3 +12,11 @@
     background-color: #ededed;
     box-shadow: -1px 4px 20px -6px rgba(0, 0 , 0 ,0.75);
 }
+.app__body> img{
+    height: 75vh;
+    place-items: center;
+    padding: 20px;
+   margin-left: 25%;
+   
+    
+}
