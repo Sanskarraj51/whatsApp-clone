@@ -31,7 +31,10 @@ function App() {
             </Route>
             <Route path ="/">
             
-              <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" alt="" />
+            <div className="chat__home">
+               <h1>Welcome to the Sanskars WhatsApp </h1>
+               <h3>Happy to see you here ! </h3>
+            </div>
 
                
              </Route>

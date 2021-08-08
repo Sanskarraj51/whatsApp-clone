@@ -1,5 +1,5 @@
 import { Avatar, IconButton } from '@material-ui/core';
-import { AttachFile, InsertEmoticon, MoreVert, SearchOutlined, Send } from '@material-ui/icons';
+import { AttachFile, MoreVert, SearchOutlined, Send } from '@material-ui/icons';
 import React,{ useState, useEffect} from 'react';
 import { useParams } from 'react-router-dom';
 import db from '../Firebase';

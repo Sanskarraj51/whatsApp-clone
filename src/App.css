@@ -12,11 +12,17 @@
     background-color: #ededed;
     box-shadow: -1px 4px 20px -6px rgba(0, 0 , 0 ,0.75);
 }
-.app__body> img{
-    height: 75vh;
+.app__home1{
+    flex: 1;
     place-items: center;
-    padding: 20px;
-   margin-left: 25%;
-   
-    
+    justify-content: center;
+    background-image:  url(https://i.redd.it/qwd83nc4xxf41.jpg) ;
+    background-repeat: repeat;
+    background-position: center;
+    padding: 30px;
+    overflow: scroll;
+    height: 100%;
+    width: 100%;
+
 }
+    
